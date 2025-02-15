@@ -5033,6 +5033,9 @@
   .block {
     display: block;
   }
+  .contents {
+    display: contents;
+  }
   .divider-end {
     &:after {
       display: none;
@@ -5060,6 +5063,9 @@
   }
   .inline-grid {
     display: inline-grid;
+  }
+  .list-item {
+    display: list-item;
   }
   .table {
     display: table;
